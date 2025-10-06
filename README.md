@@ -1,6 +1,3 @@
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=LegspCpd&locale=cn&line_height=33&show_icons=true&hide=commits&theme=dark&rank_icon=default"/>
-
-<a href="https://vscode.dev" target="_blank"><img  align=center src="https://img.shields.io/badge/VSCode-%231677ff?style=flat"/></a>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
